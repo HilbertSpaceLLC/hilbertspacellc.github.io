@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2022-12-04
+date: 2022-12-01
 img: automl.png
 alt: Auto-ML
 # project-date: April 2014
