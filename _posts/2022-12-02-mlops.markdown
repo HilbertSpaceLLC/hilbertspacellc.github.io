@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2022-12-02
 img: cake.png
-alt: image-alt
+alt: MLOps
 # project-date: April 2014
 # client: Start Bootstrap
 # category: Web Development

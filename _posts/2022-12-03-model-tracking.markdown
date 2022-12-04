@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 2022-12-03
 img: circus.png
-alt: image-alt
+alt: Experiment tracking
 # project-date: April 2014
 # client: Start Bootstrap
 # category: Web Development
